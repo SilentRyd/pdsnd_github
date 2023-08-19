@@ -1,6 +1,5 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Date created
+### Date created for repository
 18 JUNE 2023
 
 ### Project Title
@@ -24,4 +23,4 @@ Bottom are all the sources refer to for help complete this project.
 4. https://github.com/xhlow/udacity-bikeshare-project - xhlow repository helped me understand the structure
 
 
-
+Side note: This was the most enjoyable project to do out of the whole course. 

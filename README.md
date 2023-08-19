@@ -2,6 +2,9 @@
 ### Date created for repository
 18 JUNE 2023
 
+### Date project creation
+13 JUNE 2023
+
 ### Project Title
 Bike Share Project to GITHUB
 
